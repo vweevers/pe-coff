@@ -1,6 +1,6 @@
 {
   "name": "pe-coff",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Parse the COFF file header of a PE",
   "license": "MIT",
   "author": "Vincent Weevers",
